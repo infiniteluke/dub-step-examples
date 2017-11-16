@@ -1,0 +1,21 @@
+{
+  "name": "dub-step-examples",
+  "description": "DubStep - Primitives for building index based UI widgets controlled by swipe, timers, and/or buttons.\n\nExamples!",
+  "version": "0.0.628",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "glamorous": "4.9.7",
+    "glamor": "2.20.40",
+    "dub-step": "0.0.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
